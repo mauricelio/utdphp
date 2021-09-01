@@ -1,0 +1,6 @@
+Pastilha de freio dianteiro ; Bros160 ; Honda ; 32.00 ; 20
+Farol completo ; Intruder125 ; Suzuki ; 120.00 ; 2
+Amortecedor traseiro ; CG150 ; Honda ; 80.00 ; 16
+Vela de ignição ; Intruder125 ; Suzuki ; 25.00 ; 10
+Lâmpada de farol  ; CG150 ; Honda ; 15.00 ; 30
+Bateria 12V 5Ah ; Bros160 ; Honda ; 230.00 ; 10
