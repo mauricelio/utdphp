@@ -4,3 +4,8 @@ Amortecedor traseiro ; CG150 ; Honda ; 80.00 ; 16
 Vela de ignição ; Intruder125 ; Suzuki ; 25.00 ; 10
 Lâmpada de farol  ; CG150 ; Honda ; 15.00 ; 30
 Bateria 12V 5Ah ; Bros160 ; Honda ; 230.00 ; 10
+Retrovisor ; Factor150 ; Yamaha ; 25.00 ; 8
+Patim de freio traseiro ; Factor150 ; Yamaha ; 32.00 ; 6
+Painel completo ; CG150 ; Honda ; 150.00 ; 5
+Carburador ; Intruder125 ; Suzuki ; 85.00 ; 3
+Pedal de câmbio ; Bros160 ; Honda ; 42.00 ; 10
